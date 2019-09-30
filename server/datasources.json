@@ -1,0 +1,13 @@
+{
+  "resuelvoExplorando": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "resuelvoExplorando",
+    "password": "",
+    "name": "resuelvoExplorando",
+    "user": "",
+    "useNewUrlParser": true,
+    "connector": "mongodb"
+  }
+}
