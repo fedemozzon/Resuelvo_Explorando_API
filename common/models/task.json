@@ -29,11 +29,10 @@
     "requiredTask": {
       "type": "hasMany",
       "model": "Task",
-      "foreignKey": "",
+      "foreignKey": "id",
       "options": {
         "nestRemoting": true
-      },
-      "through": "Task"
+      }
     }
   },
   "acls": [],
