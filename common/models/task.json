@@ -22,20 +22,13 @@
     "code": {
       "type": "string",
       "required": true
+    },
+    "requiredTasks" : {
+      "type": "array",
+      "required" : false
     }
   },
   "validations": [],
-  "relations": {
-    "requiredTask": {
-      "type": "hasMany",
-      "model": "Task",
-      "foreignKey": "",
-      "options": {
-        "nestRemoting": true
-      },
-      "through": "Task"
-    }
-  },
   "acls": [],
   "methods": {}
 }
