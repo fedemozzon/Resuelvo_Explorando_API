@@ -18,5 +18,9 @@
       "limit": "100kb"
     },
     "cors": false
+  },
+  "url": "https://localhost:3001/",
+  "swagger": {
+    "protocol": "https"
   }
 }
