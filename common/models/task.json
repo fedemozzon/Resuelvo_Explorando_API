@@ -25,7 +25,8 @@
     },
     "requiredTasks" : {
       "type": "array",
-      "required" : false
+      "required" : false,
+      "default" : []
     }
   },
   "validations": [],
