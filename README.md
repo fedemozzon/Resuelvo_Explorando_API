@@ -4,4 +4,4 @@ API pensada para funcionar con [Resuelvo explorando web](https://github.com/pedr
 
 Para instalar: Requiere [MongoDB](https://docs.mongodb.com/manual/installation/) y [NodeJS](https://nodejs.org/en/) <br/>
 Para descargar las dependencias utilice el comando: yarn <br/>
-Para levantar la api utilice el comando: node .
+Para levantar la api utilice el comando: 'node .'
